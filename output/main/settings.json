@@ -1,0 +1,37 @@
+{
+    "app_name": "Nixie Tube Control Panel",
+    "version" : "v1.0.0",
+    "year" : 2023,
+    "theme_name" : "default",
+    "app_main":"E:\\NixieTubeConnect\\output\\main\\main.exe",
+    "icon": "E:\\NixieTubeConnect\\gui\\images\\icon.png",
+    "custom_title_bar": true,
+    "port": "COM6",
+    "startup_size": [
+        600,
+        400
+    ],
+    "minimum_size": [
+        600,
+        400
+    ],
+    "lef_menu_size" : {
+        "minimum" : 50,
+        "maximum" : 240
+    },
+    "left_menu_content_margins" : 3,
+    "left_column_size" : {
+        "minimum" : 0,
+        "maximum" : 240
+    },
+    "right_column_size" : {
+        "minimum" : 0,
+        "maximum" : 240
+    },
+    "time_animation" : 500,
+    "font" : {
+        "family" : "Segoe UI",
+        "title_size" : 16,
+        "text_size" : 9
+    }
+}
