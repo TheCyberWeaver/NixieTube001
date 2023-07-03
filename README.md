@@ -25,4 +25,7 @@ PCB files
 
 ![image](https://github.com/Thomas-hub-official/NixieTube001/assets/57830705/7295e984-76fc-49e4-b53b-71337d1fae70)
 
+# Contacts
 
+if you do not understand any part of this project, you're welcome to contact thomas.luqiyu@outlook.com
+English, German and Chinese are supported (^_^)
